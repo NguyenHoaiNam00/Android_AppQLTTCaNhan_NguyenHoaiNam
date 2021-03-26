@@ -201,8 +201,8 @@ public class MainActivity extends AppCompatActivity {
     public void taoDanhSachTT()
     {
 
-        listPerson.add(new Person("1","Trần Minh Quân","0868655861","453/54 Lê Hồng Phong","Bình Phước"));
-        listPerson.add(new Person("2","Nguyễn Hoài Nam","0848723439","Thích Quảng Đức","Đắk Lắk"));
+        listPerson.add(new Person("1","Nguyễn Văn A","0846756753","Nguyễn Thị Minh Khai","Bình Dương"));
+        listPerson.add(new Person("2","Bùi Thanh Xuân","0349443732","Trần Văn Ơn","Đà Nẵng"));
     }
     public void getlisttheoquequan(ArrayList<Person> listPersonquequan,String quequan)
     {
